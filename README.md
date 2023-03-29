@@ -7,12 +7,6 @@ Since then, I've been working on a variety of personal projects to hone my skill
 <li>As a beginner software developer, I'm always looking for opportunities to collaborate with other developers and learn from more experienced professionals.
 <li>By supporting me on Buy Me a Coffee, you're helping me to continue to grow and learn as a developer. Thank you for your support !!
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmanMotghare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMotghare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AmanMotghare&icon=0&color=0)](https://visitcount.itsvg.in)
 
