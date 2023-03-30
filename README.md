@@ -16,7 +16,8 @@
 
 ## 💰 You can help me by Donating
 <li> By supporting me on Buy Me a Coffee, you're helping me to continue to grow and learn as a developer. Thank you for your support !!
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amanmotgha5)
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
   
 
