@@ -1,5 +1,5 @@
 
-<h2>नमस्कार, Welcome to my Github profile!</h2><br>              [![](https://visitcount.itsvg.in/api?id=AmanMotghare&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>नमस्कार, Welcome to my Github profile!</h2><br>              
 
 <li>👋 Hello! I'm new to GitHub and excited to learn more about 👩‍💻 coding and contributing to open source projects.
   
