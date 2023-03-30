@@ -10,8 +10,8 @@
 <li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀
   
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${AmanMotghare
-})
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 
