@@ -10,9 +10,6 @@
 <li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀
   
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmotghare&" alt="amanmotghare" /></p>
----
-  
   
 ## 💰 You can help me by Donating
  By supporting me on Buy Me a Coffee, you're helping me to continue to grow and learn as a developer. Thank you for your support !! <br>  <br>
