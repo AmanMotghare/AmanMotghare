@@ -10,8 +10,7 @@
 <li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀
   
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanmotghare&show_icons=true&locale=en&layout=compact" alt="amanmotghare" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmotghare&label=Profile%20views&color=0e75b6&style=flat" alt="amanmotghare" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmotghare&" alt="amanmotghare" /></p>
 ---
 
