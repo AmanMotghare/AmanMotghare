@@ -10,8 +10,9 @@
 <li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀
   
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanmotghare&show_icons=true&locale=en&layout=compact" alt="amanmotghare" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmotghare&" alt="amanmotghare" /></p>
 ---
 
 
