@@ -5,7 +5,7 @@
   
 <li> Follow me on my journey as I explore the world of 🌐 software development!
   
-<li> I'm currently learning <b>JAVA</b> programming Language, and I'm excited to continue to improve my skills and gain more experience.<br>
+<li> I'm currently learning <b>JAVA</b> programming Language, and I'm excited to continue to improve my skills and gain more experience. <br>
   
 <li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀
   
