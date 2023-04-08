@@ -3,7 +3,7 @@
 
 <li>👋 Hello! I'm new to GitHub and excited to learn more about 👩‍💻 coding and contributing to open source projects.
   
-<li> Follow me on my journey as I explore the world of 🌐 software development!
+<li> Follow me on my journey as I explore the world of 🌐 software development!!
   
 <li> I'm currently learning <b>JAVA</b> programming Language, and I'm excited to continue to improve my skills and gain more experience. <br>
   
