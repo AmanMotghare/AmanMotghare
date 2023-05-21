@@ -1,20 +1,15 @@
 
-<h2>नमस्कार, Welcome to my Github profile!</h2><br>              
+<h2> Howdy, Welcome to my Github profile!</h2><br>              
 
-<li>👋 Hello! I'm new to GitHub and excited to learn more about 👩‍💻 coding and contributing to open source projects.
+<li>👋 Hello! I'm new to GitHub and excited to learn more about 👩‍💻 coding and contributing to open source projects.<br>   
   
-<li> Follow me on my journey as I explore the world of 🌐 software development!!
+<li> Follow me on my journey as I explore the world of 🌐 software development!!<br>   
   
 <li> I'm currently learning <b>JAVA</b> programming Language, and I'm excited to continue to improve my skills and gain more experience. <br>
   
-<li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀
+<li> Check out my 👀 GitHub profile to see some of my projects and contributions! 🚀<br>   
   
 ---
-  
-## 💰 You can help me by Donating <br>  
- By supporting me on Buy Me a Coffee, you're helping me to continue to grow and learn as a developer. Thank you for your support !! <br>  <br>
-<a href="https://www.buymeacoffee.com/amanmotgha5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
----
   
 
